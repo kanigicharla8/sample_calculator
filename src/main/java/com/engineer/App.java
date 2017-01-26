@@ -6,7 +6,7 @@ package com.engineer;
  */
 public class App 
 {
-    public int result;
+    
 	public String comments;
 	
 	public int sum(int a, int b) {
