@@ -7,7 +7,7 @@ package com.engineer;
 public class App 
 {
     public int result;
-	public string comments;
+	public String comments;
 	
 	public int sum(int a, int b) {
     	return a + b ;
